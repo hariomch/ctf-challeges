@@ -1,2 +1,2 @@
 # ctf-challeges
-Collection of Advaith'21 CYF challenges 
+Collection of Advaith'21 CTF challenges 
