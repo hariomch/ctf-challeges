@@ -1,0 +1,1 @@
+Inspect the source code of html, css and js files. Together they form the flag.
