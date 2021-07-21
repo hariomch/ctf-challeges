@@ -1,0 +1,1 @@
+Open the pcap file with wireshark, follow the 7th TCP stream. It has flag in HTTP request data.

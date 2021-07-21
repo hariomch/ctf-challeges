@@ -1,0 +1,1 @@
+Check exif data, base64 decrypt the Lens Serial Number. 

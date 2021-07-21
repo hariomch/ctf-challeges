@@ -1,0 +1,1 @@
+Use steghide with empty password. steghide extract -sf cat.jpg
