@@ -1,0 +1,1 @@
+Visit robots.txt, it has an entry /adminpage.html which has the flag.
