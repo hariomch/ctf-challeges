@@ -3,16 +3,10 @@ const app = express()
 const path = require('path')
 const router = express.Router()
 
+app.use(express.static(path.join(__dirname, '/')))
+
 router.get('/', function (req, res) {
   res.sendFile(path.join(__dirname + '/index.html'))
-})
-
-router.get('/robots.txt', function (req, res) {
-  res.sendFile(path.join(__dirname + '/robots.txt'))
-})
-
-router.get('/adminpage.html', function (req, res) {
-  res.sendFile(path.join(__dirname + '/adminpage.html'))
 })
 
 app.use('/', router)
